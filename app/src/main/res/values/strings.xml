@@ -1,0 +1,19 @@
+<!--
+<resources>
+    <string name="app_name">DBDS_MiniP</string>
+    <string name="db_tv">Database</string>
+    <string name="mysql">MySQL</string>
+    <string name="redshift">Redshift</string>
+</resources>-->
+
+<resources>
+    <string name="app_name">SQL Query Executor</string>
+    <string name="mysql">MySQL</string>
+    <string name="redshift">Redshift</string>
+    <!--<string name="domain_url">http://ec2-54-84-50-216.compute-1.amazonaws.com:5000/api/execute</string>-->
+    <string name="domain_url">http://172.31.131.15:5000/api/execute</string>
+    <string-array name="databases">
+        <item>Instacart</item>
+        <item>ABC Retail</item>
+    </string-array>
+</resources>
